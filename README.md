@@ -1,2 +1,0 @@
-# spring4MicroserviceConfig
-spring4MicroserviceConfig
